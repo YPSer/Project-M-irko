@@ -21,4 +21,4 @@ cv2.imshow('contours',contours)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
-#Jasper ist nicht lustig!
+#Jasper ist nicht lustig!!
