@@ -20,3 +20,5 @@ cv2.imshow('contours',contours)
 #wait for keyinput and then destroy all shows
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+#Jasper ist nicht lustig!
